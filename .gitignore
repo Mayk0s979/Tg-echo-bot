@@ -1,0 +1,33 @@
+# Environment variable file
+.env
+.env.local
+
+# Go binaries
+*.exe
+*.dll
+*.so
+*.out
+main
+build/
+dist/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Go coverage
+coverage.out
+
+# Docker
+.dockerignore
+.DS_Store
+
+# OS generated files
+.DS_Store
+Thumbs.db
